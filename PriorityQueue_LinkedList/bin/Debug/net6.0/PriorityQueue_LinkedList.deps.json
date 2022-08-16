@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v6.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v6.0": {
+      "PriorityQueue_LinkedList/1.0.0": {
+        "runtime": {
+          "PriorityQueue_LinkedList.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "PriorityQueue_LinkedList/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

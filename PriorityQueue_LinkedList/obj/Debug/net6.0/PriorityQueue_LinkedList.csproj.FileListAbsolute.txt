@@ -1,0 +1,15 @@
+C:\Users\Mahdi\Desktop\PriorityQueue_LinkedList\PriorityQueue_LinkedList\bin\Debug\net6.0\PriorityQueue_LinkedList.exe
+C:\Users\Mahdi\Desktop\PriorityQueue_LinkedList\PriorityQueue_LinkedList\bin\Debug\net6.0\PriorityQueue_LinkedList.deps.json
+C:\Users\Mahdi\Desktop\PriorityQueue_LinkedList\PriorityQueue_LinkedList\bin\Debug\net6.0\PriorityQueue_LinkedList.runtimeconfig.json
+C:\Users\Mahdi\Desktop\PriorityQueue_LinkedList\PriorityQueue_LinkedList\bin\Debug\net6.0\PriorityQueue_LinkedList.dll
+C:\Users\Mahdi\Desktop\PriorityQueue_LinkedList\PriorityQueue_LinkedList\bin\Debug\net6.0\ref\PriorityQueue_LinkedList.dll
+C:\Users\Mahdi\Desktop\PriorityQueue_LinkedList\PriorityQueue_LinkedList\bin\Debug\net6.0\PriorityQueue_LinkedList.pdb
+C:\Users\Mahdi\Desktop\PriorityQueue_LinkedList\PriorityQueue_LinkedList\obj\Debug\net6.0\PriorityQueue_LinkedList.csproj.AssemblyReference.cache
+C:\Users\Mahdi\Desktop\PriorityQueue_LinkedList\PriorityQueue_LinkedList\obj\Debug\net6.0\PriorityQueue_LinkedList.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Mahdi\Desktop\PriorityQueue_LinkedList\PriorityQueue_LinkedList\obj\Debug\net6.0\PriorityQueue_LinkedList.AssemblyInfoInputs.cache
+C:\Users\Mahdi\Desktop\PriorityQueue_LinkedList\PriorityQueue_LinkedList\obj\Debug\net6.0\PriorityQueue_LinkedList.AssemblyInfo.cs
+C:\Users\Mahdi\Desktop\PriorityQueue_LinkedList\PriorityQueue_LinkedList\obj\Debug\net6.0\PriorityQueue_LinkedList.csproj.CoreCompileInputs.cache
+C:\Users\Mahdi\Desktop\PriorityQueue_LinkedList\PriorityQueue_LinkedList\obj\Debug\net6.0\PriorityQueue_LinkedList.dll
+C:\Users\Mahdi\Desktop\PriorityQueue_LinkedList\PriorityQueue_LinkedList\obj\Debug\net6.0\ref\PriorityQueue_LinkedList.dll
+C:\Users\Mahdi\Desktop\PriorityQueue_LinkedList\PriorityQueue_LinkedList\obj\Debug\net6.0\PriorityQueue_LinkedList.pdb
+C:\Users\Mahdi\Desktop\PriorityQueue_LinkedList\PriorityQueue_LinkedList\obj\Debug\net6.0\PriorityQueue_LinkedList.genruntimeconfig.cache
